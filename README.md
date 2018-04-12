@@ -1,4 +1,4 @@
-#CUDA_Examples#
+# CUDA_Examples #
 
 The following projects were written and compiled on Visual Studio 2015 and CUDA 9.1.
 
